@@ -1,2 +1,8 @@
 os: freebsd
+group: edge
+
 language: cpp
+
+script:
+  - g++ main.cpp
+  - ./a.out
