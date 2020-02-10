@@ -1,4 +1,4 @@
-os: freebsd
+dist: freebsd
 group: edge
 
 language: cpp
