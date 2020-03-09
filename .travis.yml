@@ -4,7 +4,5 @@ group: edge
 language: cpp
 
 script:
-  - export JAVA_HOME=test1.2
-  - env
   - g++ main.cpp
   - ./a.out
