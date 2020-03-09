@@ -2,6 +2,7 @@ dist: freebsd
 group: edge
 
 language: cpp
+compiler: clang
 
 script:
   - g++ main.cpp
