@@ -1,5 +1,5 @@
-dist: freebsd
-group: dev
+os: freebsd
+group: edge
 
 language: cpp
 compiler: clang
