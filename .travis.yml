@@ -1,6 +1,6 @@
 os: linux
-dist: bionic
-group: dev
+dist: focal
+arch: arm64-graviton2
 
 language: cpp
 compiler: clang
